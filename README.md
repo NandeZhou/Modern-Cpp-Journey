@@ -80,7 +80,7 @@
 ## 🎯 如何使用
 1️⃣ **Clone 仓库**：
 ```sh
-git clone https://github.com/你的用户名/CppMastery.git
+git clone https://github.com/你的用户名/Modern-Cpp-Journey.git
 ```
 2️⃣ 按照 ROADMAP.md 计划学习
 3️⃣ 提交 PR（如果你也想贡献代码）
