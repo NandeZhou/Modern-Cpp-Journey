@@ -1,0 +1,2 @@
+Hello RAII!
+This is a test.
